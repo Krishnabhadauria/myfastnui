@@ -16,7 +16,7 @@ align-content: center
 -- player: Krishna Bhadauria
 dp: $assets.files.assets.krishna.png
 
-I am an aspiring webdev.
+I am an aspiring Web Developer.
 
 -- ftd.column:
 spacing.fixed.px: 10
@@ -24,14 +24,15 @@ margin-top.px: 60
 width: fill-container
 
 -- button: LinkedIn
-link: https://www.linkedin.com/in/ajit-garg-319167190/
+link: https://www.linkedin.com/in/krishna-bhadauria-144187225/
 
 -- button: Instagram
+link: https://www.instagram.com/thekrishnabhadauria/
 
 -- button: Facebook
 
 -- button: Twitter
-
+https://twitter.com/thekrishna01
 
 
 -- end: ftd.column
